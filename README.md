@@ -1,0 +1,2 @@
+# testingAtomist
+My new project
